@@ -24,11 +24,6 @@
             color: #fff;
         }
         
-        @media (max-width:500px) {
-            .center {
-                padding-top: 8em;
-            }
-        }
 
         .btn-primary {
             background-color: #EB0C32;
