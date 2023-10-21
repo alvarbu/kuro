@@ -13,6 +13,9 @@
         .cabecera {
             background-color: #000;
             min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         h2,
@@ -20,9 +23,7 @@
         small {
             color: #fff;
         }
-        .center {
-            padding-top:12em;
-        }
+        
         @media (max-width:500px) {
             .center {
                 padding-top: 8em;
